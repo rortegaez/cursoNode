@@ -1,0 +1,16 @@
+.js -> por defecto utiliza CommonJS
+.mjs -> para utilizar ES Modules
+.cjs -> para utilizar CommonJS
+
+X.Y.Z => SEMANTIC VERSIONING
+
+X LA MAJOR y es cuando se rompe la compatibilidad hacia atrás
+Y LA MINOR y es cuadno se añaden nuevas funcionalidades
+Z LA PATCH y es cuando se arregla un bug
+
+Dependencias de producción, que es necesario para que funcione.
+
+Dependiencas de desarrollo, que son utiles mientras se esta desarrollando el proyecto
+ cuando hacemos la instalación de este tipo hay que poner "-D" al final, para que se instale como dependencia de desarrollo.
+
+
